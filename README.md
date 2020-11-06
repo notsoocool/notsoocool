@@ -17,6 +17,9 @@
 <a href="https://www.linkedin.com/in/yajush-vyas-9465261b4/">
   <img align="left" alt="Yajush's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://www.codechef.com/users/peace01_yj">
+  <img align="left" alt="Yajush's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/codechef.svg" />
+</a>
 <a href="https://www.hackerearth.com/@peace01yj">
   <img align="left" alt="Yajush's Hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hackerearth.svg" />
 </a>
