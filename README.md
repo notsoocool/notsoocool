@@ -49,4 +49,7 @@
 
 
 ![Yajush's Github Stats](https://github-readme-stats.vercel.app/api?username=geekyvyas&show_icons=true)    
+<a href="https://github.com/geekyvyas/geekyvyas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekyvyas" />
+</a>
 
