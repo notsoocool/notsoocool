@@ -10,7 +10,6 @@
 - 💻 Languages : Python,C,C++,html,Javascript...
 - 📫 How to reach me: dryashhoney@gmail.com 
 - 😄 Pronouns: he/him...
-- 🌱 Project: https://github.com/geekyvyas/GithubBeginners
 - ⚡ Fun fact: The first computer virus was created in 1983
 
 **Connect With me on :** 
