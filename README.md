@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyvyas" alt="yajush" /> </p>
 
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 - 🔭 Currently working on  ML/DL/NLP Projects...
 - 🌱 Currently learning  Cloud Computing...
 - 👯 Looking to collaborate with passionate programmers..
