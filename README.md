@@ -32,7 +32,10 @@
 <a href="https://www.hackerrank.com/peace01yj">
   <img align="left" alt="Yajush's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hackerrank.svg" />
 </a>
-
+<a href="https://dev.to/geekyvyas">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Yajush Vyas's DEV Profile" height="22" width="22">
+</a>
+        
 <br />
 
 **Languages and Tools:**  
