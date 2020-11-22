@@ -54,5 +54,6 @@
 
 
 ![Yajush's Github Stats](https://github-readme-stats.vercel.app/api?username=geekyvyas&show_icons=true)    
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekyvyas&layout=compact" width="400" height="300" ></a>
 
 
