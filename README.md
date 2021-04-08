@@ -51,13 +51,13 @@
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/>
   </a>
  
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geekyvyas" alt="geekyvyas" /></a> </p>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geekyvyas" alt="notsoocool" /></a> </p>
 
 
 
 
-![Yajush's Github Stats](https://github-readme-stats.vercel.app/api?username=geekyvyas&show_icons=true)    
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekyvyas&show_icons=true&locale=en&layout=compact" alt="geekyvyas" /></p>
+![Yajush's Github Stats](https://github-readme-stats.vercel.app/api?username=notsoocool&show_icons=true)    
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notsoocool&show_icons=true&locale=en&layout=compact" alt="geekyvyas" /></p>
 
 
 
