@@ -57,7 +57,7 @@
 
 
 ![Yajush's Github Stats](https://github-readme-stats.vercel.app/api?username=notsoocool&show_icons=true)    
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notsoocool&show_icons=true&locale=en&layout=compact" alt="geekyvyas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notsoocool&show_icons=true&locale=en&layout=compact" alt="notsoocool" /></p>
 
 
 
