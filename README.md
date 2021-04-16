@@ -40,7 +40,7 @@
 <br /> -->
 
 
-### 🔧 Technologies & Tools
+### Technologies & Tools
 ![](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat&logo=Visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -60,7 +60,7 @@ and here's a graph for people who like graphs:
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=notsoocool&theme=github)
 
 
-<h3>my wondeful stats</h3>
+### My wondeful stats
 
 ```json
 {
@@ -74,11 +74,11 @@ and here's a graph for people who like graphs:
 }
 ```
 
-<h3>my weekly development breakdown</h3>
+### My weekly development breakdown
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       2 hrs 21 mins   ████████████████▒░░░░░░░░   65.23 % 
+Python       2 hrs 21 mins   ████████████████▒░░░░░░░░   65.23 % 
 JavaScript   56 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.29 % 
 Other        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 CSS          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
@@ -87,7 +87,7 @@ HTML         4 mins          ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-### &#x1f4c8; GitHub Stats
+### GitHub Stats
 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notsoocool&theme=onedark" alt="notsoocool" /></a> </p>
 
