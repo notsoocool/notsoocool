@@ -1,7 +1,7 @@
 ## Hi there, I'm Yajush <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### Student with Passionate about new technologies and AI. Always open for tech talks and Collaboration in AI, Web development and other tech projects....
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyvyas" alt="yajush" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=notsoocool" alt="yajush" /> </p>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
