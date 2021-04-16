@@ -65,7 +65,7 @@ and here's a graph for people who like graphs:
 
 ```json
 {
-  "joined": "2 years ago",
+  "joined": "Oct 2020",
   "repos": "58",
   "repos_contributed_to": "26",
   "commits": "392",
