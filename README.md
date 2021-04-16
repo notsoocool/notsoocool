@@ -15,7 +15,7 @@
 - 🔭 Wannabegeeks Owner...
 - ⚡ Fun fact: The first computer virus was created in 1983
 - 
-
+<!--
 **Connect With me on :** 
 <br>
 <a href="https://www.linkedin.com/in/yajush-vyas-9465261b4/">
@@ -37,12 +37,12 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Yajush Vyas's DEV Profile" height="22" width="22">
 </a>
         
-<br />
+<br /> -->
 
 
 ### 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat&logo=Visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
@@ -55,7 +55,9 @@
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
  
+and here's a graph for people who like graphs: 
 
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=notsoocool&theme=github)
 
 
 <h3>my wondeful stats</h3>
