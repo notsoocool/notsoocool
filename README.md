@@ -55,12 +55,39 @@
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
  
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notsoocool&theme=onedark" alt="notsoocool" /></a> </p>
 
 
+
+<h3>my wondeful stats</h3>
+
+```json
+{
+  "joined": "2 years ago",
+  "repos": "47",
+  "repos_contributed_to": "36",
+  "commits": "1425",
+  "stars": "219",
+  "issues": "18",
+  "pull_requests": "119"
+}
+```
+
+<h3>my weekly development breakdown</h3>
+
+<!--START_SECTION:waka-->
+```text
+Vue.js       2 hrs 21 mins   ████████████████▒░░░░░░░░   65.23 % 
+JavaScript   56 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.29 % 
+Other        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+CSS          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+HTML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+```
+<!--END_SECTION:waka-->
 
 
 ### &#x1f4c8; GitHub Stats
+
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notsoocool&theme=onedark" alt="notsoocool" /></a> </p>
 
 <a href="https://github.com/notsoocool/notsoocool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsoocool&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
