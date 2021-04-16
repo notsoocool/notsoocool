@@ -66,12 +66,12 @@ and here's a graph for people who like graphs:
 ```json
 {
   "joined": "2 years ago",
-  "repos": "47",
-  "repos_contributed_to": "36",
-  "commits": "1425",
-  "stars": "219",
-  "issues": "18",
-  "pull_requests": "119"
+  "repos": "58",
+  "repos_contributed_to": "26",
+  "commits": "392",
+  "stars": "0",
+  "issues": "10",
+  "pull_requests": "48"
 }
 ```
 
