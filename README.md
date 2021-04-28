@@ -55,6 +55,19 @@
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+
+<!--
+<h3>open source projects</h3>
+
+
+| Project  🚧 | Stars :star: | Forks 🍴 | Issues ❌ | Pull Requests 🌿 |
+|---------|-------|-------|--------|---------------|
+| Jsoning | ![GitHub stars](https://img.shields.io/github/stars/khalby786/jsoning?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/jsoning?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/jsoning?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/jsoning?style=for-the-badge) |
+| MarkMe | ![GitHub stars](https://img.shields.io/github/stars/khalby786/markme?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/markme?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/markme?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/markme?style=for-the-badge) |
+| GlitchyPastePen | ![GitHub stars](https://img.shields.io/github/stars/khalby786/GlitchyPastePen?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/GlitchyPastePen?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/GlitchyPastePen?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/GlitchyPastePen?style=for-the-badge) |
+| REHeader | ![GitHub stars](https://img.shields.io/github/stars/khalby786/REHeader?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/jsoning?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/REHeader?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/REHeader?style=for-the-badge) |
+| personal-website | ![GitHub stars](https://img.shields.io/github/stars/khalby786/personal-website?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/personal-website?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/personal-website?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/personal-website?style=for-the-badge) |
+| vue-utterances | ![GitHub stars](https://img.shields.io/github/stars/khalby786/vue-utterances?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/vue-utterances?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/vue-utterances?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/vue-utterances?style=for-the-badge) | -->
  
 and here's a graph for people who like graphs: 
 
