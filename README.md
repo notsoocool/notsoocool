@@ -1,19 +1,19 @@
-## Hi there, I'm Yajush <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### Student with Passionate about new technologies and AI. Always open for tech talks and Collaboration in AI, Web development and other tech projects....
+<h3><samp><b> Hey there! I'm Yajush <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></samp></h3>
+<h4><samp> Student with Passionate about new technologies and AI. Always open for tech talks and Collaboration in AI, Web development and other tech projects....</h4></samp>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=notsoocool.notsoocool)
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-- 🔭 Currently working on  ML/DL/NLP Projects...
-- 🌱 Currently learning  Cloud Computing...
-- 👯 Looking to collaborate with passionate programmers..
-- 🤔 Looking for help with Computer vision...
-- 💻 Languages : Python,C,C++,html,Javascript...
-- 📫 How to reach me: notsocoolvy@gmail.com 
-- 😄 Pronouns: he/him...
-- 🔭 Join <a href="https://github.com/theMAChackers">The Mac Hackers</a>...
-- ⚡ Fun fact: The first computer virus was created in 1983...
+- 🔭 <samp> Currently working on  ML/DL/NLP Projects...
+- 🌱 <samp>Currently learning  Cloud Computing...
+- 👯 <samp>Looking to collaborate with passionate programmers..
+- 🤔 <samp>Looking for help with Computer vision...
+- 💻 <samp>Languages : Python,C,C++,html,Javascript...
+- 📫 <samp>How to reach me: notsocoolvy@gmail.com 
+- 😄 <samp>Pronouns: he/him...
+- 🔭 <samp>Join <a href="https://github.com/theMAChackers">The Mac Hackers</a>...
+- ⚡ <samp>Fun fact: The first computer virus was created in 1983...
  
  
 <!--
@@ -40,22 +40,36 @@
         
 <br /> -->
 
+<h4><b><samp>Frameworks and Languages</samp></b></h4>
 
-### Technologies & Tools
-![](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat&logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat&logo=Visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) 
+![Flutter](https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff)
+![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-649ad2?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js&logoColor=white) 
 
+<h4><b><samp>Tools and Platform</samp></b></h4>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Github Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=Github-Actions&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=ffffff)
+![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
 <!--
 <h3>open source projects</h3>
 
@@ -69,12 +83,12 @@
 | personal-website | ![GitHub stars](https://img.shields.io/github/stars/khalby786/personal-website?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/personal-website?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/personal-website?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/personal-website?style=for-the-badge) |
 | vue-utterances | ![GitHub stars](https://img.shields.io/github/stars/khalby786/vue-utterances?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/vue-utterances?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/vue-utterances?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/vue-utterances?style=for-the-badge) | -->
  
-and here's a graph for people who like graphs: 
+<samp>and here's a graph for people who like graphs: 
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=notsoocool&theme=github)
 
 
-### My wondeful stats
+<samp>My wondeful stats</samp>
 
 ```json
 {
@@ -88,7 +102,9 @@ and here's a graph for people who like graphs:
 }
 ```
 
-### My weekly development breakdown
+
+
+<h4><b><samp>📊 Weekly development breakdown</samp></b></h4>
 
 <!--START_SECTION:waka-->
 ```text
@@ -100,8 +116,9 @@ HTML         4 mins          ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-
-### GitHub Stats
+<details>
+  <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
+<br>
 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notsoocool&theme=onedark" alt="notsoocool" /></a> </p>
 
@@ -125,6 +142,21 @@ HTML         4 mins          ▓░░░░░░░░░░░░░░░░
 <a href="https://github.com/notsoocool/yajushvyas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=notsoocool&repo=yajushvyas&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
+</details>
+
+[![Contact](https://img.shields.io/badge/notsocoolvy@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:notsocoolvy@gmail.com)
+<!--
+[![Twitter](https://img.shields.io/badge/@__SharmaHimanshu-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_SharmaHimanshu)
+[![Linkedin](https://img.shields.io/badge/Himanshu_Sharma-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/himanshusharma89) 
+[![Codepen](https://img.shields.io/badge/Himanshu_Sharma-1e1f26?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/himanshusharma89)
+[![Stack Overflow](https://img.shields.io/badge/Himanshu_Sharma-393939?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11545939/himanshu-sharma)
+
+[![Dev](https://img.shields.io/badge/@himanshusharma89-black?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/rageremix)
+[![Medium](https://img.shields.io/badge/@himanshusharma89-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@himanshusharma89)
+
+<a href="https://stackexchange.com/users/15998609"><img src="https://stackexchange.com/users/flair/15998609.png?theme=dark" width="208" height="58" alt="profile for Himanshu Sharma on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Himanshu Sharma on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=himanshusharma89.himanshusharma89)-->
 
 
 
