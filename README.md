@@ -50,16 +50,16 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) 
-![Flutter](https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff)
-![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-649ad2?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
 
 <h4><b><samp>Tools and Platform</samp></b></h4>
 
@@ -70,6 +70,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=ffffff)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
+ 
+ <h4><b><samp>Workspace</samp></b></h4>
+ 
+![GC](https://img.shields.io/badge/NVIDIA-GTX1060ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Processor](https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 <!--
 <h3>open source projects</h3>
 
