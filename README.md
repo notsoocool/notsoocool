@@ -133,9 +133,9 @@ HTML         4 mins          ▓░░░░░░░░░░░░░░░░
 <a href="https://github.com/notsoocool/notsoocool">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=notsoocool&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yajush's GitHub Stats" />
 </a>
-
-<a href="https://github.com/notsoocool/Sleep-Tight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=notsoocool&repo=Sleep-Tight&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<!--
+<a href="https://github.com/notsoocool/portfolio-design-vincent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=notsoocool&repo=portfolio-design-vincent&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
@@ -148,6 +148,7 @@ HTML         4 mins          ▓░░░░░░░░░░░░░░░░
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=notsoocool&repo=yajushvyas&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 </details>
+ -->
 
 [![Contact](https://img.shields.io/badge/notsocoolvy@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:notsocoolvy@gmail.com)
 <!--
