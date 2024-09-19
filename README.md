@@ -1,5 +1,5 @@
 <h3><samp><b> Hey there! I'm Yajush <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></samp></h3>
-<h4><samp> Student with Passionate about new technologies and AI. Always open for tech talks and Collaboration in AI, Web development and other tech projects....</h4></samp>
+<h4><samp> Programmer with Passionate about new technologies and AI. Always open for tech talks and Collaboration in AI, Web development and other tech projects....</h4></samp>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyvyas" alt="yajush" /> </p>
 
