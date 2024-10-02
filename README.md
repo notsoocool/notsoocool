@@ -92,22 +92,8 @@
  
 <samp>and here's a graph for people who like graphs: 
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=notsoocool&theme=github)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=notsoocool&theme=github)
 
-
-<samp>My wondeful stats</samp>
-
-```json
-{
-  "joined": "Oct 2020",
-  "repos": "64",
-  "repos_contributed_to": "26",
-  "commits": "402",
-  "stars": "0",
-  "issues": "10",
-  "pull_requests": "48"
-}
-```
 
 
 
@@ -115,8 +101,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       2 hrs 21 mins   ████████████████▒░░░░░░░░   65.23 % 
-JavaScript   56 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.29 % 
+TypeScript   2 hrs 21 mins   ████████████████▒░░░░░░░░   65.23 % 
+Next.js      56 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.29 % 
 Other        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 CSS          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 HTML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
@@ -129,30 +115,19 @@ HTML         4 mins          ▓░░░░░░░░░░░░░░░░
 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notsoocool&theme=onedark" alt="notsoocool" /></a> </p>
 
-<a href="https://github.com/notsoocool/notsoocool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsoocool&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+
 <a href="https://github.com/notsoocool/notsoocool">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=notsoocool&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yajush's GitHub Stats" />
 </a>
-<!--
-<a href="https://github.com/notsoocool/portfolio-design-vincent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=notsoocool&repo=portfolio-design-vincent&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 
-<a href="https://github.com/notsoocool/qwerty-spaces">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=notsoocool&repo=qwerty-spaces&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
 
 
-<a href="https://github.com/notsoocool/yajushvyas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=notsoocool&repo=yajushvyas&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
+
 </details>
- -->
 
-[![Contact](https://img.shields.io/badge/notsocoolvy@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:notsocoolvy@gmail.com)
+
+[![Contact](https://img.shields.io/badge/notsocoolvy@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:vyasyajush@gmail.com)
 <!--
 [![Twitter](https://img.shields.io/badge/@__SharmaHimanshu-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_SharmaHimanshu)
 [![Linkedin](https://img.shields.io/badge/Himanshu_Sharma-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/himanshusharma89) 
